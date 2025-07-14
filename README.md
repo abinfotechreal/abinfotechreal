@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Abhay and I like Vue.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <img height="50" alt="My Name is Abhay and I like Vue.js" />
   <br />
   <br />
 
@@ -45,7 +45,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg"></a> 
+<a href="https://github.com/abinfotechreal"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg"></a> 
 </div>
 
 <!-- Footer -->
