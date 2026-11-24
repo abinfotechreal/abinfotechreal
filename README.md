@@ -52,7 +52,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://camo.githubusercontent.com/ba96f73361e87790abc0e978a9ed893d1bf59cf063d27279fd39000289294ee5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6761746572656d61726b266c6162656c3d50726f66696c65253230566965777326636f6c6f723d343330363830267374796c653d666c6174)
+![Visitor Count](https://github-visitor-counter-tau.vercel.app/api?username=github&displayMode=topCountries)
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
